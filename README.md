@@ -3,7 +3,7 @@
 This config includes two layouts
 - Qwerty with homerow mods
 ![qwerty layout](./assets/kinesis360-qwerty.png)
-
+yukisghds
 - Real programing dvorak (inspired by The Primeagen) also with homerow mods.
 ![dvorak layout](./assets/kinesis360-programmer-dvorak.png)
 
